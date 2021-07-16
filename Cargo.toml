@@ -1,0 +1,12 @@
+[package]
+name = "rbase64"
+version = "0.2.0"
+authors = ["viocal@qq.com>"]
+description = "Implementation of the Base64 hash made using Rust"
+edition = "2018"
+homepage = "https://github.com/viocalpan/"
+repository = "https://github.com/viocalpan/rbase64"
+keywords = ["base64"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
